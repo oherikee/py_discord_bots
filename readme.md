@@ -1,0 +1,1 @@
+## Automatização do Discord
