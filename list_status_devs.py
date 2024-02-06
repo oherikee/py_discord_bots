@@ -6,7 +6,6 @@ intents.presences = True
 intents.messages = True
 intents.guilds = True
 intents.reactions = True
-
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 @bot.event
